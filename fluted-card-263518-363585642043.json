@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fluted-card-263518",
+  "private_key_id": "3635856420431963fa90231a715b174d9616cfc9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDArTbYfVJ8PaIQ\nZJWvVgTr6pUVkvjyjiv4YAO8dHl2liCkq4z2Czdu2emrMtO7J6QdwOjxxrhRPWDG\nTrNrvfzcRkZ56Feootiv84rLHwnso2lmrZ5SU+NGwQjaqBF5UK3sFoY/4s4CUnX6\nF8cA98IFLWM2iNEYwEuL8YVcbcwSGNbQSC8Or3ctTfY4iAOKWyxv+n06bA/wTV5T\n9wUXps0EjGiqZBAtTRmTY1R8t9me8CauqmoJzDiY9bVgQaVfqNjiMxfz/QqnIzHI\naOwqoVWljb9TkxtFy2uGj+XGgKnoVkwGhvvaJFHe2XcbPZiuZaHjIC4DEVGZ2Uwl\ncIY7+LjhAgMBAAECggEAC/o4kJipygNi0bYPAAlO4QOCJQcv5pQj85q0YMC01ERc\n3x+y8ZCc740oU3YjZ1z9fMQDNxRtXM999pXp3WbAE0ljFCz3VgpZggaXuCzDxywZ\nX0KntuJ0HG/fhwgvneUACs8TpWEKAWby4osb2dmM/BloM3mp1eoOSDLJYYeJyg4Z\nmNhqC+VTN+obctpq2vsPO5zBK0qk7GIAl27J6IJYAIWdnEJvvLb7nPEZFm78S2EP\n7bxVgFUNHawmDdQD2HPjS6C3xHF0P20jEPgkzCzqXubbCmacCBZkCMB2/FcLuprW\nuoMATLrIKo6h+fwVd5A/2D/bRikgz6BOXN0I/y8pKQKBgQDoD51zdaLpQ1xKQ3Lp\ntIIgEaM5JUlCv7po6Au25ifLrLanVYVsRm9eNZOlumURSBbg1IcIdeljyJrTtdbD\nq/PY1EKI/wmjeIT7B+lln3HxYfG4eqOOGIoWZUYJYVW/lS8dUlXWQOsWrzctkTGA\ntN6nZHYKoyGuxhKisJi3XCLIXwKBgQDUjYQ4X6exZuhJPft7RXPd05ixiue4g7Z2\npqX5aCYe8rDMZhWPeFpBVztCNI6vDj+90lRxPsT0kG7BXmE5pSU+a3DpHljHhP7T\ntp6U+ew/M5Jad8+aVDAbf8PIPJKXxz24W9wDjrl9NPzdi61egCSctbqhrVOcv1iy\nbniuT40GvwKBgF4VBpaq2LONdbs+ATay0hbCT9R5Q2xmYuLpQOaUBQpUKXFKAN/W\n5ovhWMzV9ue8vFnGkEBj3Y1w5SR0EnAeJKyB0b/M9lFqKS/FE2D59a4RMXjDb8/K\nLyHJSU3AQo17pDBVEyvcAfOecdZtiQ5PRf3Dgv/pB1zePOvsgN3F4uwtAoGARw2X\nqZCwailQdUt3CdpJxVm6rX8VvySoljlXOmyKccYHPAzUIEXHRhh3Asa2++XzgO0S\ntViaVncBzzpRngeKz7by47r1Sp024mcl0/9H7ki7H+r1R03lVwv60rENABfmlf5/\nKeFIOIbCEP1kUzbbBlfpr6pVTQzaBavQQ9Tr+9kCgYA9+Q+iMpoeWuBpD0b6PIfj\n90hEhFlV53pPEQBo8Si5PEtv3rnaI5wtjt9Q06esLVda/diBnHMXdRfWoV6kCqEj\nkEYfzYhyScBQI1R7MhDIAu01WAf/rjVLE8oqp0bydxT6LzF1LThU/xmuPqkWI4XJ\nWUQ6E+Tu4Q+mlcVCeQfZ/A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "covidcareservice-284@fluted-card-263518.iam.gserviceaccount.com",
+  "client_id": "100551911995010975190",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/covidcareservice-284%40fluted-card-263518.iam.gserviceaccount.com"
+}
